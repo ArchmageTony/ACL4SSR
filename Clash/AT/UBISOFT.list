@@ -1,4 +1,10 @@
 # UBISOFT 育碧服务
+#DOMAIN-KEYWORD,ubisoft
 DOMAIN-SUFFIX,ubisoft.com
 DOMAIN-SUFFIX,ubi.com
-DOMAIN-KEYWORD,ubisoft
+PROCESS-NAME,UplayWebCore.exe
+PROCESS-NAME,upc.exe
+
+# 特定育碧游戏
+# 幽灵行动：荒野
+PROCESS-NAME,GRW.exe

@@ -3,8 +3,8 @@ DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,hath.network
 # DOMAIN-KEYWORD,mega
-DOMAIN-SUFFIX,mega.co.nz
-DOMAIN-SUFFIX,mega.io
-DOMAIN-SUFFIX,mega.nz
-PROCESS-NAME,MEGAsync.exe
-PROCESS-NAME,mega.privacy.android.app
+# DOMAIN-SUFFIX,mega.co.nz
+# DOMAIN-SUFFIX,mega.io
+# DOMAIN-SUFFIX,mega.nz
+# PROCESS-NAME,MEGAsync.exe
+# PROCESS-NAME,mega.privacy.android.app

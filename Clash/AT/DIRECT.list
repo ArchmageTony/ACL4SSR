@@ -1,0 +1,4 @@
+# 直连节点
+DOMAIN-SUFFIX,bwh81.net
+# 微软手机连接
+PROCESS-NAME,PhoneExperienceHost.exe

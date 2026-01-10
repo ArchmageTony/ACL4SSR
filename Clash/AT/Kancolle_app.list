@@ -1,0 +1,8 @@
+# Kancolle 舰队collection
+PROCESS-NAME,poi.exe
+PROCESS-NAME,ACGPower.exe
+PROCESS-NAME,Kanxy.exe
+
+# android
+PROCESS-NAME,com.antest1.kcanotify
+PROCESS-NAME,com.antest1.gotobrowser

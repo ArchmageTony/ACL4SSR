@@ -1,3 +1,4 @@
+# 这是为了跳过这些地址来让 ACGPower 实现代理的效果
 # Kancolle 舰队collection
 PROCESS-NAME,poi.exe
 PROCESS-NAME,ACGPower.exe
